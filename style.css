@@ -328,5 +328,8 @@ label {
   /* background-color: rgb(19, 19, 19); */
   color: white;
   /* border-top: 1px solid white; */
-  padding: var(--space-2) 0 var(--space-1) var(--space-4);
+}
+
+.footer p {
+    padding-left: var(--space-2);
 }
